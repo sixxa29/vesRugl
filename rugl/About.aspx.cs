@@ -25,6 +25,8 @@ namespace rugl
 
                 MyTextBox.Text = GetRides().FirstOrDefault().to.ToString();
             }
+            Repeater1.DataSource = GetRides();
+            Repeater1.DataBind();
 
         }
 
