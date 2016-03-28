@@ -9,9 +9,12 @@
 
 
     <div class="overlay">
-        <div class="top_column">
-            <h1>Hitchhiker's Guide To Iceland</h1>
-            <p class="lead">Skutlarasíða fyrir Ísland</p>
+        <div class="">
+            <div class="plate">
+                <p class="shadow text1">Hitchhiker's</p>
+                <p class="script subtitle fancy"><span>guide to</span></p>
+                <p class="shadow text2">Iceland</p>
+            </div>
         </div>
 
         <div class="row">
@@ -22,7 +25,7 @@
                     Hitchhiker's Guide To Iceland er stærsti skutlaravefur landins og hér auglýsa ótalmargir eftir ferðafélaga hvar sem er á landinu. Vantar þig far? Smeltu hér til að skoða mögulegar ferðir sem í boði eru.
                 </p>
                 <p>
-                    <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
+                    <a class="btn btn-default" href="/About">Finna far</a>
                 </p>
             </div>
 
@@ -32,7 +35,7 @@
                     Ert þú að ferðast langa leið einn en langar í einhvern ferðafélaga með þér? Smelltu hér til að bjóða upp á ferð.
                 </p>
                 <p>
-                    <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
+                    <a class="btn btn-default" href="/Contact">Bjóða far</a>
                 </p>
             </div>
             <!--

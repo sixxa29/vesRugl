@@ -18,15 +18,7 @@ namespace rugl
         }
         protected void Page_Load(object sender, EventArgs e)
         {
-            MyTextBox.Text = "HELLP";
 
-            if (GetRides().Any())
-            {
-
-                MyTextBox.Text = GetRides().FirstOrDefault().to.ToString();
-            }
-            Repeater1.DataSource = GetRides();
-            Repeater1.DataBind();
 
         }
 
